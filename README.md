@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
 </div>
 
+<!--
 ---
 # :briefcase: Мои работы:
 
@@ -23,6 +24,7 @@
 <div>
   <img src="https://github.com/Olga-smart/Olga-smart/blob/main/img/TOXIN.jpg" title="TOXIN" alt="TOXIN" width="50%"/>&nbsp;
 </div>
+-->
 
 <!--
 **Olga-smart/Olga-smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
